@@ -1,0 +1,801 @@
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.AssemblyReference.cache
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfoInputs.cache
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfo.cs
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CoreCompileInputs.cache
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\appsettings.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.exe
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.deps.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.runtimeconfig.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Humanizer.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\scopedcss\bundle\Backend-MindSecure.styles.css
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CopyComplete
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\refint\Backend-MindSecure.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.genruntimeconfig.cache
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\ref\Backend-MindSecure.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\MessagePack.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priva\Desktop\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\appsettings.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.exe
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.deps.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.runtimeconfig.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.AssemblyReference.cache
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfoInputs.cache
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfo.cs
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CoreCompileInputs.cache
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\scopedcss\bundle\Backend-MindSecure.styles.css
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CopyComplete
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\refint\Backend-MindSecure.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.genruntimeconfig.cache
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\obj\Debug\net6.0\ref\Backend-MindSecure.dll
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\libman.json
+C:\Users\Mario MP\Desktop\Nueva carpeta\Cshart\Back-end\Back-end\Backend-MindSecure\Backend-MindSecure\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\appsettings.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\libman.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.exe
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.deps.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.runtimeconfig.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Humanizer.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\MessagePack.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.AssemblyReference.cache
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfoInputs.cache
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.AssemblyInfo.cs
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CoreCompileInputs.cache
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets\msbuild.Backend-MindSecure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend-MindSecure.props
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend-MindSecure.props
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend-MindSecure.props
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\scopedcss\bundle\Backend-MindSecure.styles.css
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.csproj.CopyComplete
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\refint\Backend-MindSecure.dll
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.pdb
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\Backend-MindSecure.genruntimeconfig.cache
+C:\Users\melen\Desktop\pruebas\backend\Back-end\Backend-MindSecure\obj\Debug\net6.0\ref\Backend-MindSecure.dll

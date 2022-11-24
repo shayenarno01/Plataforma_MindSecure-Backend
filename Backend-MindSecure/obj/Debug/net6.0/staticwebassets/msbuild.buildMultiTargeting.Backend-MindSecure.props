@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Backend-MindSecure.props" />
+</Project>
