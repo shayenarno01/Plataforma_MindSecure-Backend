@@ -34,9 +34,9 @@ namespace Backend_MindSecure.Controllers
                 return BadRequest("User already exists.");
             }
 
-            CrearClaveHash(request.Clave,
-                 out byte[] passwordHash,
-                 out byte[] passwordSalt);
+            //CrearClaveHash(request.Clave,
+            //     out byte[] passwordHash,
+            //     out byte[] passwordSalt);
 
             var usuarios = new Usuario
             {
@@ -54,23 +54,11 @@ namespace Backend_MindSecure.Controllers
             _context.Usuarios.Add(usuarios);
             await _context.SaveChangesAsync();
 
-            return Ok("User successfully created!");
+            return Ok(usuarios);
         }
 
-        private string CreateRandomToken()
-        {
-            return Convert.ToHexString(RandomNumberGenerator.GetBytes(64));
-        }
-
-        private void CrearClaveHash(string password, out byte[] passwordHash, out byte[] passwordSalt)
-        {
-            using (var hmac = new HMACSHA512())
-            {
-                passwordSalt = hmac.Key;
-                passwordHash = hmac
-                    .ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-            }
-        }
+       
+       
 
         [HttpPost("login")]
         public async Task<IActionResult> Login(UserLoginRequest request)
@@ -81,6 +69,7 @@ namespace Backend_MindSecure.Controllers
             if (user == null)
             {
                 return BadRequest("User not found.");
+
             }else if(user.Clave !=  request.Clave ){
 
                 return BadRequest("Clave incorrecta.");
@@ -88,17 +77,14 @@ namespace Backend_MindSecure.Controllers
 
             }
 
-            //if ( user.Clave && user.Email != (request.Clave, request.Email))
-            //{
-            //    return BadRequest("Password is incorrect.");
-            //}
 
-            //if (user.VerifiedAt == null)
-            //{
-            //    return BadRequest("Not verified!");
-            //}
+            //return Ok($"Welcome back, {user.Email}! :)");
 
-            return Ok($"Welcome back, {user.Email}! :)");
+            return Ok(user);
+
+            
+            
+            
         }
 
 
@@ -127,6 +113,7 @@ namespace Backend_MindSecure.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUsuario(int id, Usuario usuario)
         {
+            
             if (id != usuario.Id)
             {
                 return BadRequest();

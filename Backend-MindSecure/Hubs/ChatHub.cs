@@ -13,6 +13,20 @@ namespace Backend_MindSecure.Hubs
             await Clients.Group(groupName).SendAsync("NewUser", $"{userName} entró al canal");
         }
 
+        public async Task SendMessageAll(NewMessage message)
+        {
+            await Clients.All.SendAsync("ReceiveMessage", message.UserName, message.Message);
+        }
+
+        // ////////////////////////////////////////////////////////////////////////
+
+        public async Task ListGroup(string groupName, string userName)
+        {
+            await Clients.Group(groupName).SendAsync("NewUser", $"{userName} entró al canal");
+        }
+
+        ///////////////////////////////////////////////////
+
         public async Task LeaveGroup(string groupName, string userName)
         {
             await Groups.RemoveFromGroupAsync(Context.ConnectionId, groupName);
@@ -24,10 +38,12 @@ namespace Backend_MindSecure.Hubs
             await Clients.Group(message.GroupName).SendAsync("NewMessage", message);
         }
 
-        public async Task SendMessage2(string userid, string message)
+        //////////////////////////////////////////////////////
+
+        public async Task SendMessage2(NewMessage message)
         {
             
-            await Clients.User(userid).SendAsync(message);
+            await Clients.User(message.UserName).SendAsync("NewMessage", message);
         }
     }
 

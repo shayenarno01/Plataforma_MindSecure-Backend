@@ -16,6 +16,7 @@ builder.Services.AddCors(options => options.AddPolicy("AllowWebApp",
     builder => builder.AllowAnyOrigin()
                        .AllowAnyHeader()
                        .AllowAnyMethod()
+                       .WithOrigins("http://localhost:4200")
                        /*.AllowCredentials()*/));
 
 
@@ -30,11 +31,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("AllowWebApp");
 
-app.UseCors(options =>
-options.WithOrigins("http://localhost:4200/")
-.AllowAnyMethod()
-.AllowAnyHeader()
-);
+//app.UseCors(options =>
+//options.WithOrigins("http://localhost:4200/")
+//.AllowAnyMethod()
+//.AllowAnyHeader()
+//);
 
 
 
@@ -55,6 +56,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.UseCors("SignalRClientPolicy");
+
 
 
 app.MapHub<ChatHub>("/hubs/chat");
